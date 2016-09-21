@@ -1,0 +1,23 @@
+linux-headers.txt
+Created Wed Sep 21 09:18:48 AKDT 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Linux kernel header files
+
+
+Install linux headers for currently running kernel in debian using:
+
+$ aptitude install linux-headers-$(uname -r)
+
+In general, the kernel header packages are named linux-header-* where "*"
+indicates the version & variant (generic, server, etc.).
+--answered Nov 5 '11 at 18:39
+  Janc http://askubuntu.com/users/935/janc
+  http://askubuntu.com/questions/75709/
+
+
+Links
+=====
+How do I install kernel header files?
+http://askubuntu.com/questions/75709/how-do-i-install-kernel-header-files
