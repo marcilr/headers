@@ -1,0 +1,16 @@
+README
+Created Wed Sep 21 09:14:33 AKDT 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Headers
+
+
+Filelist
+========
+headers.txt
+  A header file is a file containing C declarations and macro definitions (see
+  Macros) to be shared between several source files.  You request the use of a
+  header file in your program by including it, with the C preprocessing
+  directive ' #include '.
+  https://gcc.gnu.org/onlinedocs/cpp/Header-Files.html
