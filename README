@@ -8,6 +8,9 @@ Headers
 
 Filelist
 ========
+docs/
+  Documentation
+
 headers.txt
   A header file is a file containing C declarations and macro definitions (see
   Macros) to be shared between several source files.  You request the use of a
